@@ -1,0 +1,49 @@
+
+.divider-vertical {
+    height: 50px;
+    margin: 0 9px;
+    border-left: 1px solid #F2F2F2;
+    border-right: 1px solid #FFF;
+}
+.color_grey{
+    color: lightgray;
+}
+
+.form-control{
+    border-radius: 0px;
+}
+.input-group-addon{
+    border-radius: 0px;
+}
+.bg_white{
+    background-color: white;
+
+}
+.well{
+    border-radius: 1px;
+    padding-top: 0px;
+}
+.glyphicon-list-alt{
+    margin-top: 0px;
+}
+.btn_border{
+    border-color: lightgray;
+    border-radius: 1px;
+}
+.bg_green{
+    background-color: lightgreen;
+}
+.color_blue{
+    color: cornflowerblue;
+}
+.offset_1{
+    margin-top: 2vh;
+    margin-bottom: 1vh;
+}
+.offset_2{
+    margin-top: 1vh;
+}
+.well_white{
+    background-color: white;
+}
+
